@@ -1,0 +1,4 @@
+A0 - Hız Ayar Potu
+A1 - Yön Ayar Potu
+D2 - CSN
+D3 - CE

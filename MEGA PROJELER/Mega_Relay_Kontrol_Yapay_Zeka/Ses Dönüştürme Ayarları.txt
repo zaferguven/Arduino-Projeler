@@ -1,0 +1,11 @@
+0 - Merhaba Zafer Hoşgeldiniz
+1 - Lamba Açıldı
+2 - Masa Lambası Açıldı
+3 - Bilgisayar Açıldı
+4 - Işıklar Kapatıldı
+geri - özürdilerim ne dediğini anlayamadım
+
+8bit - 16000khz - mono
+https://audio.online-convert.com/convert-to-wav
+
+https://responsivevoice.org/text-to-speech-languages/konusma-turkce-metin/
